@@ -8,11 +8,11 @@
 
 ## Estructura del Proyecto
 
-* `ejercicio1.py`: Solución al ejercicio resuelto 4 (Edades de la familia).
-* `ejercicio2.py`: Solución al ejercicio resuelto 5 (Prueba de escritorio / seguimiento de variables).
-* `ejercicio3.py`: Solución al ejercicio propuesto 12 (Liquidación de empleado).
-* `ejercicio4.py`: Solución al ejercicio propuesto 14 (Cálculo del cuadrado y cubo).
-* `ejercicio5.py`: Solución al ejercicio propuesto 17 (Área y circunferencia del círculo).
+* `ejercicio1.py`: Solución al ejercicio resuelto 4 
+* `ejercicio2.py`: Solución al ejercicio resuelto 5 
+* `ejercicio3.py`: Solución al ejercicio propuesto 12 
+* `ejercicio4.py`: Solución al ejercicio propuesto 14 
+* `ejercicio5.py`: Solución al ejercicio propuesto 17 
 
 
 
