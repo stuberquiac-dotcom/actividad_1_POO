@@ -13,11 +13,11 @@
 * `ejercicio3.py`: Solución al ejercicio propuesto 12 
 * `ejercicio4.py`: Solución al ejercicio propuesto 14 
 * `ejercicio5.py`: Solución al ejercicio propuesto 17
-* `Ejercicio_persona.py`: Solución al ejercicio propuesto 63
-`Ejercicio_planeta.py`:Solución al ejercicio propuesto 66
-`Ejercicio_auto.py`: Solución al ejercicio propuesto 66
-`Ejercicio_figuras.py`: Solución al ejercicio propuesto 86
-`Ejercicio_cuenta_b.py`:Solución al ejercicio propuesto 95
+* `ejercicio_persona.py`: Solución al ejercicio propuesto 63
+* `ejercicio_planeta.py`:Solución al ejercicio propuesto 66
+* `ejercicio_auto.py`: Solución al ejercicio propuesto 66
+* `ejercicio_figuras.py`: Solución al ejercicio propuesto 86
+* `ejercicio_cuenta_b.py`:Solución al ejercicio propuesto 95
 
 
 
